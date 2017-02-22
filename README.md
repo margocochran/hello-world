@@ -1,2 +1,5 @@
 # hello-world
-A short introduction to GitHub
+
+Hi Everyone! 
+
+My name is Margo and I am learning code!
